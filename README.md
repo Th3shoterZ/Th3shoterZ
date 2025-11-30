@@ -1,5 +1,6 @@
-<img width="728" height="770" alt="Kuzco_clearBG_beer" src="https://github.com/user-attachments/assets/bbfcc418-5677-4ab9-8888-708f69014430" />
-
+<div align="center">
+  <img height="450" style="max-wid" alt="Kuzco_clearBG_beer" src="https://github.com/user-attachments/assets/bbfcc418-5677-4ab9-8888-708f69014430" />
+</div>
 ## Greetings!
 
 I'm Wout, a belgian Fullstack Developer based in Germany.
