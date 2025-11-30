@@ -17,5 +17,5 @@ Hobbies/Interests:
 - Motorsport html &#127937;
 - Combining video games and motorsport (simracing)
 - Metal music &#129304;
-- Staying up till 4am to fix something that's broken in a personal project &#128563;
+- Staying up till 4am to fix something that's broken in a personal project &#128564;
 
