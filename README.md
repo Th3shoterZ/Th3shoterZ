@@ -13,7 +13,9 @@ But like a lot of other devs with a fulltime job, I suffer from almost never fin
 
 Hobbies/Interests:
 - Programming/building things (duh)
-- Video games
-- Motorsport
+- Video games 🎮
+- Motorsport html &#127937;
 - Combining video games and motorsport (simracing)
-- Staying up till 4am to fix something that's broken in a personal project
+- Metal music &#129304;
+- Staying up till 4am to fix something that's broken in a personal project &#128563;
+
